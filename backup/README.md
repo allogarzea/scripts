@@ -18,6 +18,6 @@ In this folder, I keep all my security/recovery keys, TOTP keys and Bitwarden's 
 [ DESKTOP OVERVIEW ]
 
 ## References 
-[Open Android Backup](https://github.com/mrrfv/open-android-backup)
-[Ubuntu Backup Script](https://ubuntu.com/server/docs/backups-shell-scripts)
-[Linux Backup Script](https://medium.com/@fotios.floros/linux-backup-script-1722cc9c2bf6)
+- [Open Android Backup](https://github.com/mrrfv/open-android-backup)
+- [Ubuntu Backup Script](https://ubuntu.com/server/docs/backups-shell-scripts)
+- [Linux Backup Script](https://medium.com/@fotios.floros/linux-backup-script-1722cc9c2bf6)
