@@ -1,4 +1,5 @@
 # Bloatware on Galaxy
+###### par garzea
 This is a guide for disabling/deleting bloatwares on Samsung Galaxy Devices.
 
 ## Alternatives
